@@ -37,8 +37,9 @@ Realizar dos metodologías para la predicción de una variable continua (PAY_AMT
     ├── pyproject.toml 
     ├── uv.lock
     ├── .python-version       
-    └── presentacion.pdf
+    └── presentacion.pdf 
 ```
+[Ver presentación en PDF](./presentacion.pdf)
 
 ## Pasos para ejecutar el proyecto
 
